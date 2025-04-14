@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+title {
+  font-family: Arial, sans-serif;
+  margin: 20px 15px;
+}
+h1 {
+  color: #300101;
+  padding: 15px;
+}
+label,
+button {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: auto;
+}

@@ -1,0 +1,7 @@
+venv
+.dev
+.venv
+__pycache__
+.pytest_cache
+.vscode/
+*.sqlite3
